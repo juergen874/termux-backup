@@ -1,0 +1,9 @@
+# Backup files
+*.tar.gz
+*.sha256
+TermuxBackups/
+
+# System / Cache
+.cache/
+*.log
+.DS_Store
